@@ -1,0 +1,203 @@
+Frontend – UI/UX Guidelines & Functional Requirements
+1. Objective
+
+The objective of the frontend is to deliver a smooth, visually attractive, and user-friendly experience while keeping all existing functionalities intact.
+
+All existing functionalities must remain unchanged
+
+Existing background video and animations must NOT be removed or altered
+
+New animations can be added to enhance user experience
+
+2. Functional Consistency
+
+The frontend must behave exactly as defined in the backend flow:
+
+Homepage
+
+Sign In
+
+Create Account
+
+Login
+
+User Dashboard
+
+Admin Dashboard (role-based)
+
+Login, logout, and redirections should work smoothly and seamlessly
+
+Any changes made from the Admin Page must reflect properly on the frontend
+
+3. UI / UX Enhancement Requirements
+Attractiveness & Visual Appeal
+
+Improve the overall attractiveness of the website
+
+Focus on:
+
+Clean layouts
+
+Proper spacing
+
+Balanced alignment
+
+Smooth transitions
+
+The website should look modern, premium, and visually engaging.
+
+4. Color Grading
+
+There are no strict color restrictions
+
+You are free to choose any color palette that:
+
+Looks professional
+
+Enhances readability
+
+Improves user engagement
+
+Ensure consistent color grading across all pages, including:
+
+Homepage
+
+Login Page
+
+Sign-Up Page
+
+User Dashboard
+
+Admin Page
+
+The color theme should remain uniform throughout the website.
+
+5. Typography (Fonts)
+
+Use one consistent font family across the entire website
+
+The same font style must be applied on:
+
+All pages
+
+Headings
+
+Buttons
+
+Forms
+
+Navigation menus
+
+Font choice should be:
+
+Clean
+
+Modern
+
+Easy to read
+
+Visually appealing
+
+6. Animations & Transitions
+Existing Animations
+
+Do not change or remove:
+
+Background video
+
+Existing animations already implemented
+
+Additional Animations (Allowed)
+
+You may add animations creatively, such as:
+
+Smooth slide-in / slide-out animations
+
+Fade-in effects
+
+Tab opening and closing animations
+
+Hover effects on buttons and cards
+
+Page transition animations
+
+All animations should:
+
+Feel smooth
+
+Not affect performance
+
+Enhance the user experience without distraction
+
+7. Page-Specific UI Focus
+Homepage
+
+Visually engaging hero section
+
+Smooth entrance animations
+
+Clear call-to-action buttons (Sign In / Explore)
+
+Login & Sign-Up Pages
+
+Clean and attractive form design
+
+Smooth input focus animations
+
+Proper validation feedback
+
+Consistent styling with the overall theme
+
+User Dashboard
+
+Clear layout
+
+Smooth dropdown animations
+
+Easy navigation between sections
+
+Admin Page
+
+Professional and structured layout
+
+Clear controls for admin operations
+
+Immediate visual reflection of changes on the frontend
+
+8. Performance & Smoothness
+
+The frontend should feel:
+
+Fast
+
+Responsive
+
+Smooth
+
+Animations should not cause lag or delay
+
+Page transitions should be seamless
+
+9. Design Freedom
+
+Developers are encouraged to use their creative freedom
+
+Additional enhancements are welcome as long as:
+
+Core functionality remains unchanged
+
+Existing animations are preserved
+
+Consistent fonts and color grading are maintained
+
+10. Summary
+
+Maintain existing logic and animations
+
+Improve UI/UX and visual appeal
+
+Use consistent fonts and color themes
+
+Add smooth animations where appropriate
+
+Ensure a premium, attractive frontend experienc
